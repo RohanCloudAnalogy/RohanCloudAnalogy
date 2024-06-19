@@ -7,7 +7,7 @@
 
 
 <p align="center">
-        <samp> Hi, I'm a dedicated Full Stack developer based in Kurukshetra, India. Drawing from a foundation in Backend Development in Java and proficient knowledge of Rest APIs, I am constantly expanding my expertise in Full Stack development. With a diverse skill set, I aim to contribute innovatively to every project.
+        <samp> I'm a dedicated Full Stack developer based in Kurukshetra, India. Drawing from a foundation in Backend Development in Java and proficient knowledge of Rest APIs, I am constantly expanding my expertise in Full Stack development. With a diverse skill set, I aim to contribute innovatively to every project.
         </samp> 
 </p>
 
